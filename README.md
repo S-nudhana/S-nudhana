@@ -12,10 +12,5 @@ Computer science student at KMUTT<br><br>- 🌍  I'm based in Bangkok, Thailand<
 ![](https://github-readme-streak-stats.herokuapp.com/?user=S-nudhana&theme=nord&hide_border=true)<br/>
 ![S-nudhana's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S-nudhana&theme=nord&show_icons=true&hide_border=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=S-nudhana&theme=nord&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=S-nudhana&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
