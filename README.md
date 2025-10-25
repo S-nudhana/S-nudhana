@@ -8,3 +8,4 @@ Computer science student at KMUTT<br><br>- 🌍  I'm based in Bangkok, Thailand<
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=S-nudhana&theme=nord&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=S-nudhana&theme=nord&hide_border=true)<br/>
+![S-nudhana's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S-nudhana&theme=nord&show_icons=true&hide_border=true&layout=compact)
